@@ -1,0 +1,42 @@
+const Sampleampaigns = [
+    {
+      title: 'Save the Rainforest',
+      creator: 'John Doe',
+      description: 'Help us save the rainforest by donating to our campaign. Your contribution will go towards planting trees and preserving wildlife.',
+      goal: 5000,
+      amountRaised: 200,
+      endDate: '2024-12-31',
+      imageUrl: 'https://th.bing.com/th/id/OIP.sjzCCD_QZRoDp7zkPj2HUwHaEK?rs=1&pid=ImgDetMain',
+      donators: [
+        { name: 'Donator 1', amount: 50 },
+        { name: 'Donator 2', amount: 150 },
+      ],
+    },
+    {
+      title: 'Clean the Ocean',
+      creator: 'Jane Smith',
+      description: 'Join our efforts to clean the ocean and protect marine life. Your support will help us remove plastic and other pollutants.',
+      goal: 10000,
+      amountRaised: 200,
+      endDate: '2024-11-30',
+      imageUrl: 'https://th.bing.com/th/id/OIP.HMNa8xVQqNzpOpyy0wkmogHaE8?rs=1&pid=ImgDetMain',
+      donators: [
+        { name: 'Donator 1', amount: 50 },
+        { name: 'Donator 2', amount: 150 },
+      ],
+    },
+    {
+      title: 'Clean the Ocean',
+      creator: 'Jane Smith',
+      description: 'Join our efforts to clean the ocean and protect marine life. Your support will help us remove plastic and other pollutants.',
+      goal: 10000,
+      amountRaised: 200,
+      endDate: '2024-11-30',
+      imageUrl: 'https://th.bing.com/th/id/R.8b1fc4346ff34134dd8699674022166d?rik=h%2b%2bbxQUzB1ZntQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f9%2fe%2f3%2f109136.jpg&ehk=wlnKmMMeMGl2cS5iiAjGTLzcnVbu9VYymaJD0wHFajo%3d&risl=&pid=ImgRaw&r=0',
+      donators: [
+        { name: 'Donator 1', amount: 50 },
+        { name: 'Donator 2', amount: 150 },
+      ],
+    },
+    // Add more campaign objects as needed
+  ];
